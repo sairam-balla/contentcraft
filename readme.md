@@ -89,3 +89,13 @@ npm run build
 - tailwindcss
 - lucide-react
 - react-hot-toast
+
+## credentials
+
+for users:
+email: user123@email.com
+password: user123
+
+for admin:
+email: test123@email.com
+password: test123
